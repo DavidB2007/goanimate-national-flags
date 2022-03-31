@@ -53,5 +53,7 @@
 		<state id="flag_esw.swf" name="Eswatini" enable="Y" default="N"/>
 		<state id="flag_eth.swf" name="Ethiopia" enable="Y" default="N"/>
 		<state id="flag_fin.swf" name="Finland" enable="Y" default="N"/>
+    <state id="flag_rus.swf" name="Russia" enable="Y" default="N"/>
+    <state id="flag_ukr.swf" name="Ukraine" enable="Y" default="N"/>
 		<state id="flag_usa.swf" name="United States" enable="Y" default="Y"/>
 	</prop>
