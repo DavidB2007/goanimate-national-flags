@@ -1,0 +1,57 @@
+	<prop id="natflag" name="National Flag Collection" holdable="0" placeable="1" wearable="0" facing="left" thumb="flag_usa.swf" enable="Y" is_premium="N" aid="23107" money="0" sharing="0">
+		<state id="flag_afg.swf" name="Afghanistan" enable="Y" default="N"/>
+		<state id="flag_alb.swf" name="Albania" enable="Y" default="N"/>
+		<state id="flag_alg.swf" name="Algeria" enable="Y" default="N"/>
+		<state id="flag_and.swf" name="Andorra" enable="Y" default="N"/>
+		<state id="flag_ang.swf" name="Angola" enable="Y" default="N"/>
+		<state id="flag_ant.swf" name="Antigua &amp; Barbuda" enable="Y" default="N"/>
+		<state id="flag_arg.swf" name="Argentina" enable="Y" default="N"/>
+		<state id="flag_arm.swf" name="Armenia" enable="Y" default="N"/>
+		<state id="flag_aus.swf" name="Austria" enable="Y" default="N"/>
+		<state id="flag_aze.swf" name="Azerbaijan" enable="Y" default="N"/>
+		<state id="flag_bah.swf" name="Bahamas" enable="Y" default="N"/>
+		<state id="flag_bhr.swf" name="Bahrain" enable="Y" default="N"/>
+		<state id="flag_ban.swf" name="Bangladesh" enable="Y" default="N"/>
+		<state id="flag_bar.swf" name="Barbados" enable="Y" default="N"/>
+		<state id="flag_bel.swf" name="Belarus" enable="Y" default="N"/>
+		<state id="flag_blg.swf" name="Belgium" enable="Y" default="N"/>
+		<state id="flag_blz.swf" name="Belize" enable="Y" default="N"/>
+		<state id="flag_ben.swf" name="Benin" enable="Y" default="N"/>
+		<state id="flag_bhu.swf" name="Bhutan" enable="Y" default="N"/>
+		<state id="flag_bol.swf" name="Bolivia" enable="Y" default="N"/>
+		<state id="flag_bos.swf" name="Bosnia &amp; Herzegovina" enable="Y" default="N"/>
+		<state id="flag_bot.swf" name="Botswana" enable="Y" default="N"/>
+		<state id="flag_bra.swf" name="Brazil" enable="Y" default="N"/>
+		<state id="flag_bul.swf" name="Bulgaria" enable="Y" default="N"/>
+		<state id="flag_bur.swf" name="Burkina Faso" enable="Y" default="N"/>
+		<state id="flag_brd.swf" name="Burundi" enable="Y" default="N"/>
+		<state id="flag_côt.swf" name="Côte d'Ivoire" enable="Y" default="N"/>
+		<state id="flag_cab.swf" name="Cabo Verde" enable="Y" default="N"/>
+		<state id="flag_cam.swf" name="Cambodia" enable="Y" default="N"/>
+		<state id="flag_cmr.swf" name="Cameroon" enable="Y" default="N"/>
+		<state id="flag_can.swf" name="Canada" enable="Y" default="N"/>
+		<state id="flag_cen.swf" name="Central African Republic" enable="Y" default="N"/>
+		<state id="flag_cha.swf" name="Chad" enable="Y" default="N"/>
+		<state id="flag_chi.swf" name="Chile" enable="Y" default="N"/>
+		<state id="flag_chn.swf" name="China" enable="Y" default="N"/>
+		<state id="flag_col.swf" name="Columbia" enable="Y" default="N"/>
+		<state id="flag_con.swf" name="Congo Republic" enable="Y" default="N"/>
+		<state id="flag_cos.swf" name="Costa Rica" enable="Y" default="N"/>
+		<state id="flag_cro.swf" name="Croatia" enable="Y" default="N"/>
+		<state id="flag_cub.swf" name="Cuba" enable="Y" default="N"/>
+		<state id="flag_cyp.swf" name="Cyprus" enable="Y" default="N"/>
+		<state id="flag_cze.swf" name="Czechia" enable="Y" default="N"/>
+		<state id="flag_den.swf" name="Denmark" enable="Y" default="N"/>
+		<state id="flag_dji.swf" name="Djibouti" enable="Y" default="N"/>
+		<state id="flag_dom.swf" name="Dominica" enable="Y" default="N"/>
+		<state id="flag_dmr.swf" name="Dominican Republic" enable="Y" default="N"/>
+		<state id="flag_ecu.swf" name="Ecuador" enable="Y" default="N"/>
+		<state id="flag_egy.swf" name="Egypt" enable="Y" default="N"/>
+		<state id="flag_els.swf" name="El Salvador" enable="Y" default="N"/>
+		<state id="flag_eri.swf" name="Eritrea" enable="Y" default="N"/>
+		<state id="flag_est.swf" name="Estonia" enable="Y" default="N"/>
+		<state id="flag_esw.swf" name="Eswatini" enable="Y" default="N"/>
+		<state id="flag_eth.swf" name="Ethiopia" enable="Y" default="N"/>
+		<state id="flag_fin.swf" name="Finland" enable="Y" default="N"/>
+		<state id="flag_usa.swf" name="United States" enable="Y" default="Y"/>
+	</prop>
