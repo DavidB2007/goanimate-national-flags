@@ -65,7 +65,7 @@
   <state id="flag_ukr.swf" name="Ukraine" enable="Y" default="N"/>
 	<state id="flag_usa.swf" name="United States" enable="Y" default="Y"/>
 </prop>
-<prop id="natflag-his" name="Historical Flags Collection" holdable="0" placeable="1" wearable="0" facing="left" thumb="flag_ngc.swf" enable="Y" is_premium="N" aid="23108" money="0" sharing="0">
+<prop id="natflag-his" name="Historical Flags Collection" holdable="0" placeable="1" wearable="0" facing="left" thumb="flag_geremp.swf" enable="Y" is_premium="N" aid="23108" money="0" sharing="0">
   <state id="flag_geremp.swf" name="German Empire (1871-1919)" enable="Y" default="Y"/>
   <state id="flag_aushun.swf" name="Austria-Hungary (1867-1918)" enable="Y" default="N"/>
   <state id="flag_ausemp.swf" name="Austrian Empire (1804-1867)" enable="Y" default="N"/>
