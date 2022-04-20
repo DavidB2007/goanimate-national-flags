@@ -1,10 +1,5 @@
 <prop id="natflag" name="National Flag Collection" holdable="0" placeable="1" wearable="0" facing="left" thumb="flag_usa.swf" enable="Y" is_premium="N" aid="23107" money="0" sharing="0">
 	<state id="flag_afg.swf" name="Afghanistan" enable="Y" default="N"/>
-        <state id="flag_swi.swf" name="Switzerland" enable="Y" default="N"/>
-        <state id="flag_fra.swf" name="France" enable="Y" default="N"/>
-        <state id="flag_ita.swf" name="Italy" enable="Y" default="N"/>
-        <state id="flag_tür.swf" name="Türkiye" enable="Y" default="N"/>
-        <state id="flag_pol.swf" name="Poland" enable="Y" default="N"/>
 	<state id="flag_alb.swf" name="Albania" enable="Y" default="N"/>
 	<state id="flag_alg.swf" name="Algeria" enable="Y" default="N"/>
 	<state id="flag_and.swf" name="Andorra" enable="Y" default="N"/>
@@ -58,7 +53,11 @@
 	<state id="flag_esw.swf" name="Eswatini" enable="Y" default="N"/>
 	<state id="flag_eth.swf" name="Ethiopia" enable="Y" default="N"/>
 	<state id="flag_fin.swf" name="Finland" enable="Y" default="N"/>
+        <state id="flag_fra.swf" name="France" enable="Y" default="N"/>
+        <state id="flag_ita.swf" name="Italy" enable="Y" default="N"/>
+        <state id="flag_pol.swf" name="Poland" enable="Y" default="N"/>
   <state id="flag_rus.swf" name="Russia" enable="Y" default="N"/>
+  <state id="flag_tür.swf" name="Türkiye" enable="Y" default="N"/>
   <state id="flag_ukr.swf" name="Ukraine" enable="Y" default="N"/>
 	<state id="flag_usa.swf" name="United States" enable="Y" default="Y"/>
 </prop>
