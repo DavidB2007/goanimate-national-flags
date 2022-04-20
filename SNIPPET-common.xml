@@ -60,6 +60,7 @@
   <state id="flag_rus.swf" name="Russia" enable="Y" default="N"/>
   <state id="flag_rwa.swf" name="Rwanda" enable="Y" default="N"/>
   <state id="flag_ser.swf" name="Serbia" enable="Y" default="N"/>
+  <state id="flag_swi.swf" name"Switzerland" enable="Y" default="N"/>
   <state id="flag_tür.swf" name="Türkiye" enable="Y" default="N"/>
   <state id="flag_ukr.swf" name="Ukraine" enable="Y" default="N"/>
 	<state id="flag_usa.swf" name="United States" enable="Y" default="Y"/>
@@ -68,5 +69,6 @@
   <state id="flag_geremp.swf" name="German Empire (1871-1919)" enable="Y" default="Y"/>
   <state id="flag_aushun.swf" name="Austria-Hungary (1867-1918)" enable="Y" default="N"/>
   <state id="flag_ausemp.swf" name="Austrian Empire (1804-1867)" enable="Y" default="N"/>
+  <state id="flag_bel.swf" name="Benelux (1951-1960)" enable="Y" default="N"/>
   <state id="flag_rusemp.swf" name="Russian Empire (1858-1896)" enable="Y" default="N"/>
 </prop>
