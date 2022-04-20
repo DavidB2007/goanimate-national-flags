@@ -57,6 +57,7 @@
         <state id="flag_ita.swf" name="Italy" enable="Y" default="N"/>
         <state id="flag_pol.swf" name="Poland" enable="Y" default="N"/>
   <state id="flag_rus.swf" name="Russia" enable="Y" default="N"/>
+  <state id="flag_rom.swf" name="Romania" enable="Y" default="N"/>
   <state id="flag_ser.swf" name="Serbia" enable="Y" default="N"/>
   <state id="flag_tür.swf" name="Türkiye" enable="Y" default="N"/>
   <state id="flag_ukr.swf" name="Ukraine" enable="Y" default="N"/>
